@@ -1,6 +1,5 @@
 
 from flask import Flask,request,jsonify,render_template
-from sklearn.linear_model import LogisticRegression
 import pandas as pd
 import numpy as np
 import pickle
